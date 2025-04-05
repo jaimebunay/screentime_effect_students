@@ -8,3 +8,5 @@ This study analyzes publicly available datasets (sourced from Kaggle) to examine
 - Data preprocessing and age binning 
 - Visual exploration of patterns (e.g., screen time vs. grades, sleep, activity) 
 - Correlation analysis to assess the strength of relationships
+
+![average sleep hours](/screenshots/avg_sleep_hours.png)
