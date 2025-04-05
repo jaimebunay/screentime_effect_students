@@ -9,4 +9,4 @@ This study analyzes publicly available datasets (sourced from Kaggle) to examine
 - Visual exploration of patterns (e.g., screen time vs. grades, sleep, activity) 
 - Correlation analysis to assess the strength of relationships
 
-![project_files](screenshots/avg_sleep_hours.png)
+![avg sleep](project_files/avg_sleep_hours.png)
